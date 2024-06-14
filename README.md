@@ -1,0 +1,2 @@
+# Cubic-Game-Using-Minimax-Algorithm-Alpha-Beta-Pruning-and-Heuristic-Function
+This project is a 4x4x4 cubic tic-tac-toe game where a human player competes against an AI opponent. The AI player utilizes the Minimax algorithm with Alpha-Beta pruning to make strategic decisions, aiming to win the game. The game features a graphical user interface (GUI) for user interaction and visual representation of the game board.
